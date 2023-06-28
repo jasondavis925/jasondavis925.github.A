@@ -3,9 +3,9 @@
 This is my attempt to develop a website.
 > By [Jason Davis](mailto:jasondavis925@gmail.com) &middot; [Demo]<!--(https://beautifuljekyll.com/)-->
 
-**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  <!--[Check out a demo](https://beautifuljekyll.com)--> of what you'll get after just two minutes.  You can also look at <!--[my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com)--> to see it in use, or see <!--[examples of websites](http://beautifuljekyll.com/examples)--> other people created using this theme.
+**This** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  <!--[Check out a demo](https://beautifuljekyll.com)--> of what you'll get after just two minutes.  You can also look at <!--[my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com)--> to see it in use, or see <!--[examples of websites](http://beautifuljekyll.com/examples)--> other people created using this theme.
 
-**If you enjoy Beautiful Jekyll, please consider <!--[supporting me](https://github.com/sponsors/daattali)--> for over 5 years of development (and to unlock rewards!) ❤**
+**If you enjoy This, please consider <!--[supporting me](https://github.com/sponsors/daattali)--> for over 5 years of development (and to unlock rewards!) ❤**
 
 ## Table of contents
 
@@ -24,29 +24,29 @@ This is my attempt to develop a website.
 
 __Check out <!--[*What's New?*](https://beautifuljekyll.com/updates/)--> to see the latest features!__
 
-- **SIMPLE**: The primary goal of Beautiful Jekyll is to allow literally *anyone* to create a website in a few minutes.
+- **SIMPLE**: The primary goal of This is to allow literally *anyone* to create a website in a few minutes.
 - **Modern**: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome's Audit.
 - **Mobile-first**: Designed to look great on both large-screen and small-screen (mobile) devices.
 - **Highly customizable**: Many personalization settings such as changing the background colour/image, adding a logo.
-- **Flexible usage**: Use Beautiful Jekyll directly on GitHub or via a Ruby gem - choose the best [development method](#build-your-website-in-3-steps) for you.
-- **Battle-tested**: By using Beautiful Jekyll, you'll be joining 50,000+ users enjoying this theme since 2015.
+- **Flexible usage**: Use This directly on GitHub or via a Ruby gem - choose the best [development method](#build-your-website-in-3-steps) for you.
+- **Battle-tested**: By using This, you'll be joining 50,000+ users enjoying this theme since 2015.
 - **SEO and social media support**: Customize how your site looks on Google and when shared on social media.
 - **Comments support**: Add comments to any page using either [Disqus](https://disqus.com/), [Facebook comments](https://developers.facebook.com/docs/plugins/comments), [Utterances](https://utteranc.es/), [Staticman](https://staticman.net), [giscus](https://giscus.app), or [CommentBox](https://commentbox.io/).
 - **Tags**: Any blog post can be tagged with keywords, and an index page is automatically generated.
 - **Analytics**: Easily integrate Google Analytics, or other analytics platforms, to track visits to your website.
 - **Search**: Let users easily find any page using a Search button in the navigation bar.
 - **Photos support**: Any page can have a full-width cover photo and thumbnail.
-- **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
+- **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with This.
 
 <h2 id="sponsors">Sponsors 🏆</h2>
 
-Developing and maintaining Beautiful Jekyll takes a lot of time and effort - thank you to anyone who helps fund this effort!
+Developing and maintaining This takes a lot of time and effort - thank you to anyone who helps fund this effort!
 
 - [LoadView-Testing](https://www.loadview-testing.com/products/jmeter-load-testing/)
 - [DoFollow](https://dofollow.co.uk/)
 - [\_hyp3ri0n](https://hyperiongray.com)
 
-<!--**[Become a sponsor for Beautiful Jekyll and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**-->
+<!--**[Become a sponsor for This and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**-->
 
 # Build your website in 3 steps
 
@@ -68,7 +68,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
-Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the <!--[FAQ](https://beautifuljekyll.com/faq/#custom-domain)--> if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
+Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **This** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the <!--[FAQ](https://beautifuljekyll.com/faq/#custom-domain)--> if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
 ### 3. Customize your website settings
 
@@ -80,17 +80,17 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
-Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the <!--[FAQ](https://beautifuljekyll.com/faq/#updating)--> for help with upgrading in the future.
+Note that this was the easy way to *create* your website, but it does come at a cost: when This gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the <!--[FAQ](https://beautifuljekyll.com/faq/#updating)--> for help with upgrading in the future.
 
 ## The hard way (using ruby gems)
 
 If you followed the easy method above, then you already have your site and you can skip this section!
 
-If you want to use Beautiful Jekyll as a ruby gem instead, follow the <!--[advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard)-->. This is harder to set up initially, but it makes it super easy to keep your site up to date with Beautiful Jekyll when more features are added in the future.
+If you want to use This as a ruby gem instead, follow the <!--[advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard)-->. This is harder to set up initially, but it makes it super easy to keep your site up to date with This when more features are added in the future.
 
 # Plans
 
-Beautiful Jekyll is, and always will be, free. But if you want to remove the Beautiful Jekyll ad from your website, use a Dark Mode skin, unlock other special rewards, or simply support the development efforts, <!--[check out the different plans](https://beautifuljekyll.com/plans)-->.
+This is, and always will be, free. But if you want to remove the This ad from your website, use a Dark Mode skin, unlock other special rewards, or simply support the development efforts, <!--[check out the different plans](https://beautifuljekyll.com/plans)-->.
 
 # Add your own content
 
@@ -123,7 +123,7 @@ subtitle: Here you'll find all the ways to get in touch with me
 ---
 ```
 
-If you don't want to use any parameters on a page, you still need to use the two dashed lines. If you don't, then your file will be shown as-is without the Beautiful Jekyll template.
+If you don't want to use any parameters on a page, you still need to use the two dashed lines. If you don't, then your file will be shown as-is without the This template.
 
 You can look at the top of <!--[`aboutme.md`](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/aboutme.md)--> as an example.
 
@@ -131,7 +131,7 @@ You can look at the top of <!--[`aboutme.md`](https://raw.githubusercontent.com/
 
 # Supported parameters
 
-Below is a list of the parameters that Beautiful Jekyll supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings.
+Below is a list of the parameters that This supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings.
 
 ## Main parameters
 
@@ -198,7 +198,7 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 
 # Featured users (success stories!)
 
-Visit the <!--[Official website](http://beautifuljekyll.com/examples)--> to see sample websites using Beautiful Jekyll.
+Visit the <!--[Official website](http://beautifuljekyll.com/examples)--> to see sample websites using This.
 
 If you'd like to showcase yourself and join this list, <!--[upgrading to the Individual plan](https://github.com/sponsors/daattali/sponsorships?&tier_id=7362)--> will give you that publicity plus some other rewards!
 
@@ -206,15 +206,15 @@ If you'd like to showcase yourself and join this list, <!--[upgrading to the Ind
 
 Visit the <!--[official FAQ page](https://beautifuljekyll.com/faq)--> for answers to commonly asked questions.
 
-Beautiful Jekyll is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to Beautiful Jekyll and is more about Jekyll or web development in general, the answer can often be found on Google, in the <!--[Jekyll documentation](https://jekyllrb.com/)-->, or on the <!--[Jekyll support forum](https://talk.jekyllrb.com/)-->.
+This is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to This and is more about Jekyll or web development in general, the answer can often be found on Google, in the <!--[Jekyll documentation](https://jekyllrb.com/)-->, or on the <!--[Jekyll support forum](https://talk.jekyllrb.com/)-->.
 
-To receive support, select one of the <!--[different plans](https://beautifuljekyll.com/plans) Beautiful Jekyll offers. You can also use the <!--[Discussions](https://github.com/daattali/beautiful-jekyll/discussions)--> area to try to get help from the community.
+To receive support, select one of the <!--[different plans](https://beautifuljekyll.com/plans) This offers. You can also use the <!--[Discussions](https://github.com/daattali/beautiful-jekyll/discussions)--> area to try to get help from the community.
 
 # Contributions
 
 Thank you to <!--[all past contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors)-->. If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
 
-You can also contribute by becoming an <!--[official sponsor](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)--> to help keep Beautiful Jekyll well-maintained.
+You can also contribute by becoming an <!--[official sponsor](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)--> to help keep This well-maintained.
 
 # Credits
 
